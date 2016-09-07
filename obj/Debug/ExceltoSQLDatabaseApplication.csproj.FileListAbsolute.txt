@@ -1,0 +1,21 @@
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\bin\Debug\ExceltoSQLDatabaseApplication.exe.config
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\bin\Debug\ExceltoSQLDatabaseApplication.exe
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\bin\Debug\ExceltoSQLDatabaseApplication.pdb
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\obj\Debug\ExceltoSQLDatabaseApplication.csprojResolveAssemblyReference.cache
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\obj\Debug\ExceltoSQLDatabaseApplication.Properties.Resources.resources
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\obj\Debug\ExceltoSQLDatabaseApplication.csproj.GenerateResource.Cache
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\obj\Debug\ExceltoSQLDatabaseApplication.exe
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\obj\Debug\ExceltoSQLDatabaseApplication.pdb
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\bin\Debug\EntityFramework.dll
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\bin\Debug\EntityFramework.xml
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\areich\Documents\Visual Studio 2015\Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\obj\Debug\ExceltoSQLDatabaseApplication.DynamicExceltoSQLDatabase.resources
+C:\Users\Aaron\Desktop\Polen Capital Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\bin\Debug\ExceltoSQLDatabaseApplication.exe.config
+C:\Users\Aaron\Desktop\Polen Capital Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\obj\Debug\ExceltoSQLDatabaseApplication.exe
+C:\Users\Aaron\Desktop\Polen Capital Projects\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\obj\Debug\ExceltoSQLDatabaseApplication.pdb
+C:\Users\Aaron\Desktop\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\bin\Debug\ExceltoSQLDatabaseApplication.exe.config
+C:\Users\Aaron\Desktop\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\obj\Debug\ExceltoSQLDatabaseApplication.exe
+C:\Users\Aaron\Desktop\ExceltoSQLDatabase\ExceltoSQLDatabaseApplication\obj\Debug\ExceltoSQLDatabaseApplication.pdb
